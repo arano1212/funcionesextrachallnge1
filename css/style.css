@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 600px;
+
+}
+
+
+.imagen{
+
+    width: 100px;
+    height: 100px;
+    margin-right: 200px;
+}
+
+
+
+
